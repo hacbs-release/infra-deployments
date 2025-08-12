@@ -1,4 +1,4 @@
-name: Close PRs and delete branches daily
+name: Close PRs and delete branches hourly
 
 on:
   schedule:
