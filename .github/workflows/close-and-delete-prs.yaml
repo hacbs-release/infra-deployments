@@ -1,8 +1,8 @@
-name: Close PRs and delete branches daily
+name: Close PRs and delete branches hourly
 
 on:
   schedule:
-    - cron: '30 5 * * *' 
+    - cron: '30 * * * *' 
 
 jobs:
   close-pr-and-delete-branch:
