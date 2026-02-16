@@ -7,6 +7,6 @@ resources:
 images:
   - name: quay.io/konflux-ci/release-service
     newName: quay.io/konflux-ci/release-service
-    newTag: c4a2e8861861cb9364b80d139ffb2d7a21f5e2e2
+    newTag: 4cf052c0cf1df45241e5073d0fd4e449538a4f1a
 
 namespace: release-service
